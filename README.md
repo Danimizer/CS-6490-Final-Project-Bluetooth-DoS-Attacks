@@ -1,5 +1,7 @@
 Authors: Amar Barucija, Sean Richens, Daniel Toone
+----------------------------------------------------------------------------
 Class: CS6490 - Network Security
+----------------------------------------------------------------------------
 Final Project: Bluetooth DoS Attacks
 ----------------------------------------------------------------------------
 Note: All following Python files are associated with this 
